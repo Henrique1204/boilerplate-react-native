@@ -17,6 +17,18 @@ const init = require('../index.js');
 init();
 ```
 
+#### Conteúdo do arquivo `index.js`.
+
+```js
+#!/usr/bin/env node
+
+const init = async () => {
+  ...
+};
+
+module.exports = init;
+```
+
 ## Package.json
 
 - Remova a propriedade `"main"`.
