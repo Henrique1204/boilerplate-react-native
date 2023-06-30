@@ -1,5 +1,5 @@
 {
-  "name": "bolierplate-react-native",
+  "name": "boilerplate-react-native",
   "version": "0.0.1",
   "description": "Boilerplate para criação de projeto utilizando react-native e expo.",
   "bin": ".bin/cli.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Henrique1204/bolierplate-react-native/issues"
   },
-  "homepage": "https://github.com/Henrique1204/bolierplate-react-native#readme"
+  "homepage": "https://github.com/Henrique1204/bolierplate-react-native#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  }
 }
