@@ -17,7 +17,7 @@ const copyFileOrFolder = (structurePath) => async (path) => {
 
 const copyStructure = async () => {
   try {
-    const structurePath = getSrcFolderPath('structure');
+    const structurePath = getSrcFolderPath('folder-model');
 
     const paths = await readDirAsync(structurePath);
 
