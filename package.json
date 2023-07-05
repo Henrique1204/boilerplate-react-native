@@ -1,6 +1,6 @@
 {
-  "name": "boilerplate-react-native",
-  "version": "0.0.2",
+  "name": "@henrique1204/boilerplate-react-native",
+  "version": "0.0.1",
   "description": "Boilerplate para criação de projeto utilizando react-native e expo.",
   "bin": ".bin/cli.js",
   "scripts": {
