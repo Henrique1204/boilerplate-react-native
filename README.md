@@ -32,7 +32,7 @@ module.exports = init;
 ## Package.json
 
 - Remova a propriedade `"main"`.
-- Adicione a propriedade `"bin"` com o valor de `"./bin/cli.js"`.
+- Adicione a propriedade `"bin"` com o valor de `".bin/cli.js"`.
 - Adicione o script de `start` sendo `node .bin/cli.js`.
 
 ## Publicando.
